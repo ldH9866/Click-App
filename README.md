@@ -17,9 +17,10 @@ Mac용 자동 클릭 앱
 1. `ClickApp-1.0.dmg` 파일을 실행 후 `/Applications`에 설치
 2. 앱을 열고 원하는 설정을 입력 후 `시작` 클릭
 
-## 📦 다운로드
+## 💾 다운로드
 
-👉 [ClickApp-1.0.dmg](./ClickApp-1.0.dmg)
+👉 [ClickApp v1.0 실행파일 (.dmg)](https://github.com/ldH9866/Click-App/releases/download/1.0/ClickApp-1.0.dmg)
+
 
 ## 📌 개발 정보
 
